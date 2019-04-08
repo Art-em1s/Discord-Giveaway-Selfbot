@@ -1,5 +1,5 @@
 """
-    Copyright (c) 2017 Artemis
+    Copyright (c) Artemis
 """
 import discord, datetime, random, time, logging, asyncio, sys
 from discord.ext import commands
